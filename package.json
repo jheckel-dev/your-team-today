@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "an application for viewing team member information",
   "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
   "scripts": {
     "test": "jest"
   },
