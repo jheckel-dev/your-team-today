@@ -1,0 +1,23 @@
+{
+  "name": "your-team-today",
+  "version": "1.0.0",
+  "description": "an application for viewing team member information",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jheckel-dev/your-team-today.git"
+  },
+  "author": "Jalen H",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jheckel-dev/your-team-today/issues"
+  },
+  "homepage": "https://github.com/jheckel-dev/your-team-today#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  }
+}
